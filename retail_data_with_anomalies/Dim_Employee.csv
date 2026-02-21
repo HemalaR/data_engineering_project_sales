@@ -1,0 +1,25 @@
+EmployeeKey,EmployeeName,Role,BranchKey,Salary
+1,Unni Trivedi,Manager,1,41875
+2,Charita Parmar,Cashier,1,38314
+3,Nathan Buch,Salez,1,30397
+4,Widisha Tandon,Manager,1,40075
+5,Oni Chaudhari,Cashier,1,49229
+6,Januja Sathe,Cashier,1,33983
+7,Bhavna Andra,Cashier,1,34611
+8,Warhi Sachdeva,Sales,1,44368
+9,Barkha Bhat,Manager,1,34747
+10,Balhaar Gaba,Manager,1,44634
+11,Eiravati Butala,Sales,1,47520
+12,Vrishti Dugal,Cashier,1,29086
+13,Karan Ganguly,Cashier,2,35879
+14,Agastya Krishnamurthy,Cashier,2,-27839
+15,Wazir Mallick,Manager,2,34413
+16,Umang Solanki,Sales,2,43381
+17,Qarin Soman,Manager,2,27683
+18,Samuel Keer,Manager,2,31005
+19,Vasudha Anne,Manager,2,49262
+20,Udyati Devi,Cashier,2,22640
+21,Zilmil Balasubramanian,Sales,2,24942
+22,Vaishnavi Mutti,Sales,2,32551
+23,Ekantika Mittal,Cashier,2,25007
+24,Urishilla Parsa,Cashier,2,27010
