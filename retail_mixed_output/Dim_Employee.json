@@ -1,0 +1,146 @@
+[
+    {
+        "EmployeeKey":1,
+        "EmployeeName":"Ranbir Babu",
+        "Role":"Cashier",
+        "Salary":41799
+    },
+    {
+        "EmployeeKey":2,
+        "EmployeeName":"Eiravati Krishnan",
+        "Role":"Cashier",
+        "Salary":22025
+    },
+    {
+        "EmployeeKey":3,
+        "EmployeeName":"Manbir Yogi",
+        "Role":"Manager",
+        "Salary":-40650
+    },
+    {
+        "EmployeeKey":4,
+        "EmployeeName":"Chatresh Verma",
+        "Role":"Cashier",
+        "Salary":46299
+    },
+    {
+        "EmployeeKey":5,
+        "EmployeeName":"Dayamai Tiwari",
+        "Role":"Cashier",
+        "Salary":30159
+    },
+    {
+        "EmployeeKey":6,
+        "EmployeeName":"Ucchal Ramaswamy",
+        "Role":"Manager",
+        "Salary":31404
+    },
+    {
+        "EmployeeKey":7,
+        "EmployeeName":"Yahvi Agarwal",
+        "Role":"Sales",
+        "Salary":39193
+    },
+    {
+        "EmployeeKey":8,
+        "EmployeeName":"Ridhi Goda",
+        "Role":"Sales",
+        "Salary":32145
+    },
+    {
+        "EmployeeKey":9,
+        "EmployeeName":"Ansh Setty",
+        "Role":"Cashier",
+        "Salary":26107
+    },
+    {
+        "EmployeeKey":10,
+        "EmployeeName":"Harsh Bal",
+        "Role":"Manager",
+        "Salary":39016
+    },
+    {
+        "EmployeeKey":11,
+        "EmployeeName":"Dalaja Oommen",
+        "Role":"Sales",
+        "Salary":29404
+    },
+    {
+        "EmployeeKey":12,
+        "EmployeeName":"Kai Pradhan",
+        "Role":"Cashier",
+        "Salary":20218
+    },
+    {
+        "EmployeeKey":13,
+        "EmployeeName":"Vansha Pandey",
+        "Role":"Salez",
+        "Salary":34684
+    },
+    {
+        "EmployeeKey":14,
+        "EmployeeName":"Neha Mahajan",
+        "Role":"Manager",
+        "Salary":30693
+    },
+    {
+        "EmployeeKey":15,
+        "EmployeeName":"Samuel Chakrabarti",
+        "Role":"Cashier",
+        "Salary":25665
+    },
+    {
+        "EmployeeKey":16,
+        "EmployeeName":"Oni Joshi",
+        "Role":"Sales",
+        "Salary":41326
+    },
+    {
+        "EmployeeKey":17,
+        "EmployeeName":"Radha Arora",
+        "Role":"Cashier",
+        "Salary":38778
+    },
+    {
+        "EmployeeKey":18,
+        "EmployeeName":"Vasatika Toor",
+        "Role":"Sales",
+        "Salary":23203
+    },
+    {
+        "EmployeeKey":19,
+        "EmployeeName":"Nachiket Magar",
+        "Role":"Cashier",
+        "Salary":21301
+    },
+    {
+        "EmployeeKey":20,
+        "EmployeeName":"Liam Menon",
+        "Role":"Manager",
+        "Salary":37080
+    },
+    {
+        "EmployeeKey":21,
+        "EmployeeName":"Anjali Kunda",
+        "Role":"Manager",
+        "Salary":32741
+    },
+    {
+        "EmployeeKey":22,
+        "EmployeeName":"Chatresh Natarajan",
+        "Role":"Cashier",
+        "Salary":33100
+    },
+    {
+        "EmployeeKey":23,
+        "EmployeeName":"Anmol Sem",
+        "Role":"Cashier",
+        "Salary":43900
+    },
+    {
+        "EmployeeKey":24,
+        "EmployeeName":"Diya Chawla",
+        "Role":"Manager",
+        "Salary":46308
+    }
+]

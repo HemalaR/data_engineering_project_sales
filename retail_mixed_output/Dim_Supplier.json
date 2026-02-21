@@ -1,0 +1,38 @@
+[
+    {
+        "SupplierKey":1,
+        "SupplierName":null,
+        "LeadTimeDays":15,
+        "ReliabilityScore":89
+    },
+    {
+        "SupplierKey":2,
+        "SupplierName":"Krish-Nagar",
+        "LeadTimeDays":7,
+        "ReliabilityScore":92
+    },
+    {
+        "SupplierKey":3,
+        "SupplierName":"Rout LLC",
+        "LeadTimeDays":8,
+        "ReliabilityScore":87
+    },
+    {
+        "SupplierKey":4,
+        "SupplierName":"Chana-Bera",
+        "LeadTimeDays":8,
+        "ReliabilityScore":86
+    },
+    {
+        "SupplierKey":5,
+        "SupplierName":"Joshi-Venkatesh",
+        "LeadTimeDays":-2,
+        "ReliabilityScore":91
+    },
+    {
+        "SupplierKey":6,
+        "SupplierName":"Prasad-Bumb",
+        "LeadTimeDays":3,
+        "ReliabilityScore":84
+    }
+]
