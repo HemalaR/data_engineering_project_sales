@@ -1,0 +1,170 @@
+[
+  {
+    "EmployeeKey":1,
+    "EmployeeName":"Hamsini Tata",
+    "Role":"Manager",
+    "BranchKey":1,
+    "Salary":35571.0
+  },
+  {
+    "EmployeeKey":2,
+    "EmployeeName":"Akshay Manda",
+    "Role":"Cashier",
+    "BranchKey":1,
+    "Salary":23813.0
+  },
+  {
+    "EmployeeKey":3,
+    "EmployeeName":"Aarini Date",
+    "Role":"Manager",
+    "BranchKey":1,
+    "Salary":367112.9124529291
+  },
+  {
+    "EmployeeKey":4,
+    "EmployeeName":"Zayan Ray",
+    "Role":"Manager",
+    "BranchKey":1,
+    "Salary":28906.0
+  },
+  {
+    "EmployeeKey":5,
+    "EmployeeName":"Nidra Bahri",
+    "Role":"Manager",
+    "BranchKey":1,
+    "Salary":25567.0
+  },
+  {
+    "EmployeeKey":6,
+    "EmployeeName":"Qabil Barad",
+    "Role":"Cashier",
+    "BranchKey":1,
+    "Salary":26569.0
+  },
+  {
+    "EmployeeKey":7,
+    "EmployeeName":"Laban Sandhu",
+    "Role":"Cashier",
+    "BranchKey":1,
+    "Salary":46614.0
+  },
+  {
+    "EmployeeKey":8,
+    "EmployeeName":"Hitesh Ahluwalia",
+    "Role":"Cashier",
+    "BranchKey":1,
+    "Salary":24159.0
+  },
+  {
+    "EmployeeKey":9,
+    "EmployeeName":"Bakhshi Deshmukh",
+    "Role":"Cashier",
+    "BranchKey":1,
+    "Salary":48987.0
+  },
+  {
+    "EmployeeKey":10,
+    "EmployeeName":"Harita Salvi",
+    "Role":"Manager",
+    "BranchKey":1,
+    "Salary":40129.0
+  },
+  {
+    "EmployeeKey":11,
+    "EmployeeName":"Indali Iyengar",
+    "Role":"Manager",
+    "BranchKey":1,
+    "Salary":22182.0
+  },
+  {
+    "EmployeeKey":12,
+    "EmployeeName":"Adya Mani",
+    "Role":"Sales",
+    "BranchKey":1,
+    "Salary":34081.0
+  },
+  {
+    "EmployeeKey":13,
+    "EmployeeName":"Damyanti Bobal",
+    "Role":"Manager",
+    "BranchKey":2,
+    "Salary":39254.0
+  },
+  {
+    "EmployeeKey":14,
+    "EmployeeName":"Simon Madan",
+    "Role":"Sales",
+    "BranchKey":2,
+    "Salary":48473.0
+  },
+  {
+    "EmployeeKey":15,
+    "EmployeeName":"Devansh Viswanathan",
+    "Role":"Sales",
+    "BranchKey":2,
+    "Salary":38139.0
+  },
+  {
+    "EmployeeKey":16,
+    "EmployeeName":"Avni Deshmukh",
+    "Role":"Cashier",
+    "BranchKey":2,
+    "Salary":null
+  },
+  {
+    "EmployeeKey":17,
+    "EmployeeName":"Saanvi Vora",
+    "Role":"Sales",
+    "BranchKey":2,
+    "Salary":42064.0
+  },
+  {
+    "EmployeeKey":18,
+    "EmployeeName":"Priya Kalla",
+    "Role":"Cashier",
+    "BranchKey":2,
+    "Salary":45756.0
+  },
+  {
+    "EmployeeKey":19,
+    "EmployeeName":"Vaishnavi Hayre",
+    "Role":"Sales",
+    "BranchKey":2,
+    "Salary":33351.0
+  },
+  {
+    "EmployeeKey":20,
+    "EmployeeName":"Vedant Dubey",
+    "Role":"Manager",
+    "BranchKey":2,
+    "Salary":35121.0
+  },
+  {
+    "EmployeeKey":21,
+    "EmployeeName":"Arjun Dugar",
+    "Role":"Sales",
+    "BranchKey":2,
+    "Salary":39263.0
+  },
+  {
+    "EmployeeKey":22,
+    "EmployeeName":"Bhavani Dayal",
+    "Role":"Sales",
+    "BranchKey":2,
+    "Salary":39378.0
+  },
+  {
+    "EmployeeKey":23,
+    "EmployeeName":"Banjeet Viswanathan",
+    "Role":"Sales",
+    "BranchKey":2,
+    "Salary":33257.0
+  },
+  {
+    "EmployeeKey":24,
+    "EmployeeName":"Vamakshi Thaman",
+    "Role":"Manager",
+    "BranchKey":2,
+    "Salary":39805.0
+  }
+]

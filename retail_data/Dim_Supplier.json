@@ -1,0 +1,38 @@
+[
+  {
+    "SupplierKey":1,
+    "SupplierName":"Bora-Pillay",
+    "LeadTimeDays":8.0,
+    "ReliabilityScore":78.0
+  },
+  {
+    "SupplierKey":2,
+    "SupplierName":"Dara, Jhaveri and Chatterjee",
+    "LeadTimeDays":11.0,
+    "ReliabilityScore":76.0
+  },
+  {
+    "SupplierKey":3,
+    "SupplierName":"Seth-Gulati",
+    "LeadTimeDays":8.0,
+    "ReliabilityScore":85.0
+  },
+  {
+    "SupplierKey":4,
+    "SupplierName":"Shukla-Minhas",
+    "LeadTimeDays":9.0,
+    "ReliabilityScore":82.0
+  },
+  {
+    "SupplierKey":5,
+    "SupplierName":"Butala-Pathak",
+    "LeadTimeDays":14.0,
+    "ReliabilityScore":82.0
+  },
+  {
+    "SupplierKey":6,
+    "SupplierName":"Shere-Madan",
+    "LeadTimeDays":9.0,
+    "ReliabilityScore":75.0
+  }
+]
