@@ -1,0 +1,4 @@
+ChannelKey|ChannelName
+1|POS
+2|Online Website
+3|Onlne
