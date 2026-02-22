@@ -1,0 +1,7 @@
+SupplierKey,SupplierName,LeadTimeDays,ReliabilityScore
+1,Dora-Kamdar,5,90
+2,"Lad, Sathe and Din",15,81
+3,"Biswas, Mitra and Subramaniam",5,81
+4,"Bhat, Mohan and Patel",14,90
+5,"Gopal, Chatterjee and Borde",-8,88
+6,,3,86
