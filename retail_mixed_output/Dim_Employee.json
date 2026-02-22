@@ -1,0 +1,146 @@
+[
+    {
+        "EmployeeKey":1,
+        "EmployeeName":"Samuel Merchant",
+        "Role":"Cashier",
+        "Salary":44558
+    },
+    {
+        "EmployeeKey":2,
+        "EmployeeName":"Ikbal Jhaveri",
+        "Role":"Sales",
+        "Salary":27757
+    },
+    {
+        "EmployeeKey":3,
+        "EmployeeName":"Forum Issac",
+        "Role":"Sales",
+        "Salary":46210
+    },
+    {
+        "EmployeeKey":4,
+        "EmployeeName":"Omya Sule",
+        "Role":"Sales",
+        "Salary":48882
+    },
+    {
+        "EmployeeKey":5,
+        "EmployeeName":"Jhalak Mandal",
+        "Role":"Manager",
+        "Salary":20812
+    },
+    {
+        "EmployeeKey":6,
+        "EmployeeName":"Aahana Samra",
+        "Role":"Sales",
+        "Salary":44135
+    },
+    {
+        "EmployeeKey":7,
+        "EmployeeName":"David Halder",
+        "Role":"Manager",
+        "Salary":45637
+    },
+    {
+        "EmployeeKey":8,
+        "EmployeeName":"Nilima Bail",
+        "Role":"Manager",
+        "Salary":46287
+    },
+    {
+        "EmployeeKey":9,
+        "EmployeeName":"Karan Bains",
+        "Role":"Salez",
+        "Salary":48313
+    },
+    {
+        "EmployeeKey":10,
+        "EmployeeName":"Lajita Sastry",
+        "Role":"Cashier",
+        "Salary":46566
+    },
+    {
+        "EmployeeKey":11,
+        "EmployeeName":"Yamini Radhakrishnan",
+        "Role":"Sales",
+        "Salary":28742
+    },
+    {
+        "EmployeeKey":12,
+        "EmployeeName":"Xalak Bhagat",
+        "Role":"Sales",
+        "Salary":-45800
+    },
+    {
+        "EmployeeKey":13,
+        "EmployeeName":"Nisha Toor",
+        "Role":"Cashier",
+        "Salary":23542
+    },
+    {
+        "EmployeeKey":14,
+        "EmployeeName":"Lopa Rastogi",
+        "Role":"Manager",
+        "Salary":48579
+    },
+    {
+        "EmployeeKey":15,
+        "EmployeeName":"Qarin Prabhakar",
+        "Role":"Sales",
+        "Salary":48134
+    },
+    {
+        "EmployeeKey":16,
+        "EmployeeName":"Nitesh Rai",
+        "Role":"Manager",
+        "Salary":27288
+    },
+    {
+        "EmployeeKey":17,
+        "EmployeeName":"Leela Dutt",
+        "Role":"Sales",
+        "Salary":46757
+    },
+    {
+        "EmployeeKey":18,
+        "EmployeeName":"Warjas Dada",
+        "Role":"Manager",
+        "Salary":31457
+    },
+    {
+        "EmployeeKey":19,
+        "EmployeeName":"Turvi Dar",
+        "Role":"Manager",
+        "Salary":46887
+    },
+    {
+        "EmployeeKey":20,
+        "EmployeeName":"Gautami Konda",
+        "Role":"Sales",
+        "Salary":27304
+    },
+    {
+        "EmployeeKey":21,
+        "EmployeeName":"Andrew Mody",
+        "Role":"Sales",
+        "Salary":41627
+    },
+    {
+        "EmployeeKey":22,
+        "EmployeeName":"Ikbal Dube",
+        "Role":"Sales",
+        "Salary":33056
+    },
+    {
+        "EmployeeKey":23,
+        "EmployeeName":"Yashica Mutti",
+        "Role":"Manager",
+        "Salary":29129
+    },
+    {
+        "EmployeeKey":24,
+        "EmployeeName":"Dalbir Lanka",
+        "Role":"Sales",
+        "Salary":45340
+    }
+]

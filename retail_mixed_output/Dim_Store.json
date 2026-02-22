@@ -1,0 +1,27 @@
+[
+    {
+        "StoreKey":1,
+        "StoreName":"Pirangut Fashion Hub",
+        "BranchKey":1
+    },
+    {
+        "StoreKey":2,
+        "StoreName":"Pune Central Mall",
+        "BranchKey":1
+    },
+    {
+        "StoreKey":3,
+        "StoreName":"Hinjewadi Store",
+        "BranchKey":9999
+    },
+    {
+        "StoreKey":4,
+        "StoreName":"Magarpatta City",
+        "BranchKey":2
+    },
+    {
+        "StoreKey":5,
+        "StoreName":"Baner_Premum",
+        "BranchKey":2
+    }
+]
